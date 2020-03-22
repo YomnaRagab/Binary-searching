@@ -2,6 +2,7 @@
 binary searching for sorted array , O(log2(array_size).
 
 -->O(log2(arr_length))
+
 1)first it puts the start and the end index to the top and the end of the array
  
 2)as long as the end not eqal the start , which means , we didn't search all the elements yet.
